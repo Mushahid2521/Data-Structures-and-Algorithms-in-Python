@@ -5,7 +5,7 @@ In this repository different types of Data Structures and Algorithms have been i
 
 **Linked List:** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/linkedList.py)
 
-**Que using Linked List:** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/QueInLinkedlist.py)
+**Queue using Linked List:** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/QueInLinkedlist.py)
 
 **Stack:** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/stack.py), ```Solved Problems:``` [Paranthesis Balancing](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/parenthesisBalancing.py)
 
