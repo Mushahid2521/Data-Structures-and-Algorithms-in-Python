@@ -3,10 +3,16 @@ In this repository different types of Data Structures and Algorithms have been i
 
 ## Data Structures
 
+**Binary Search Tree using Linked List**
+
+
+## Algorithms
+
 **Searching**
 1. Binary Search: [Implementation](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/bianrySearch.py) 
 
 **Sorting**
+
 All the following Sorting algorithms have been implemented [here](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/SrotingAlgorithms.py)
 1. Insertion Sort
 2. Selection Sort
