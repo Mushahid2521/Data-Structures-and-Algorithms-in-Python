@@ -7,9 +7,7 @@ In this repository different types of Data Structures and Algorithms have been i
 
 **Que using Linked List:** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/QueInLinkedlist.py)
 
-**Stack:** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/stack.py), 
-
-```Solved Problems:``` [Paranthesis Balancing](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/parenthesisBalancing.py)
+**Stack:** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/stack.py), ```Solved Problems:``` [Paranthesis Balancing](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/parenthesisBalancing.py)
 
 **Disjoint Set:** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/DisjointSet.py)
 
@@ -17,9 +15,7 @@ In this repository different types of Data Structures and Algorithms have been i
 
 **Binary Search Tree using Linked List:** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/BinarySearchTree.py)
 
-**Segment Tree:** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/SegmentTree.py)
-
-```Solved Promlems:``` [Minimum value](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Problems/Segment_tree_minimumQuery.py)
+**Segment Tree:** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/SegmentTree.py), ```Solved Promlems:``` [Minimum value](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Problems/Segment_tree_minimumQuery.py)
 ## Algorithms
 
 **Searching**
