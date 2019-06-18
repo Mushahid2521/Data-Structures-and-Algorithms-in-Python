@@ -4,25 +4,31 @@ In this repository different types of Data Structures and Algorithms have been i
 ## Data Structures
 
 **Linked List**
-[Implementation](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/linkedList.py)
+
+  [Implementation](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/linkedList.py)
 
 **Que using Linked List**
-[Implementation](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/QueInLinkedlist.py)
+
+  [Implementation](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/QueInLinkedlist.py)
 
 **Stack**
-[Implementation](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/stack.py)
-Solved Problems: [Paranthesis Balancing](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/parenthesisBalancing.py)
+
+  [Implementation](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/stack.py)
+  Solved Problems: [Paranthesis Balancing](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/parenthesisBalancing.py)
 
 **Disjoint Set**
-[Implementation](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/DisjointSet.py)
+
+  [Implementation](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/DisjointSet.py)
 
 **Heap and Priority Que**
-[Implementation](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/heap%26PrirotyQueue.py)
+
+  [Implementation](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/heap%26PrirotyQueue.py)
 
 
 
 **Binary Search Tree using Linked List**
-[Implementation](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/BinarySearchTree.py)
+
+  [Implementation](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/BinarySearchTree.py)
 
 ## Algorithms
 
