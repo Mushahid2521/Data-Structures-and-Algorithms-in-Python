@@ -36,5 +36,5 @@ All the following Sorting algorithms have been implemented.
 
 ### Graph-Theory
 
-**BFS**: ```Code```: [code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/bfs.py) ```Solved Problems```: [Depth of Nodes](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Problems/bfs_traversal.py)
+1. **BFS**: ```Code```: [code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/bfs.py) ```Solved Problems```: [Depth of Nodes](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Problems/bfs_traversal.py)
 
