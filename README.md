@@ -34,6 +34,7 @@ All the following Sorting algorithms have been implemented.
 
 ```Solved Problems```: [Permutation Generator](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/permutationGeneratorBacktracking.py), [Cobmination Generator](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/conbinationGenerator.py), [NQuneens Problem](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Problems/nQueens.py)
 
-**Graph-Theory**
-```Implementation```: [code]()
+### Graph-Theory
+
+**BFS**: ```Code```: [code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/bfs.py) ```Solved Problems```: [Depth of Nodes](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Problems/bfs_traversal.py)
 
