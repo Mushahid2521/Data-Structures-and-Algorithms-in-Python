@@ -36,10 +36,9 @@ All the following Sorting algorithms have been implemented.
 
 ### Graph-Theory
 
-1. **BFS**: [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/bfs.py) ```Solved Problems```: [Depth of Nodes](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Problems/bfs_traversal.py)
-2. **Mininum Spanning Tree**: [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/graph/mst_kruskal.py) ```Solved Problems```: [BFS in 2D grid](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/graph/risk_bfs_2d.py) [knight Moves](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/graph/knight_moves.py) [Bicoloring](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/graph/bicoloring.py)
-3. **Minimum Spanning Tree(Kruskal Algorithm)**: [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/graph/mst_kruskal.py)
-4. **Topological Sort**: [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/LeetCode%20Interview%20Questions/Course_Schedule_topSort.py)
+1. **BFS**: [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/bfs.py) ```Solved Problems```: [Depth of Nodes](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Problems/bfs_traversal.py), [BFS in 2D grid](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/graph/risk_bfs_2d.py), [knight Moves](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/graph/knight_moves.py), [Bicoloring](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/graph/bicoloring.py)
+2. **Minimum Spanning Tree(Kruskal Algorithm)**: [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/graph/mst_kruskal.py)
+3. **Topological Sort**: [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/LeetCode%20Interview%20Questions/Course_Schedule_topSort.py)
 
 
 
