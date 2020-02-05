@@ -1,4 +1,13 @@
 def canFinish(numCourses, prerequisites):
+    '''
+    TopSort is used to arrange the sequence of dependent tasks
+    1. We first count the number of In Degrees from the Graph (edges entering in a node)
+    2. We push the 0 indegrees nodes to the queue
+    3. We loop through the adjacent nodes and then decrease the indegrees
+    4. If after decreasing it become 0 then we push it to the queue
+
+    Time Complexity: O(N^2)
+    '''
     graph = {i: [] for i in range(0, numCourses)}
     inDegree = {i: 0 for i in range(0, numCourses)}
     vis = {i:False for i in range(0, numCourses)}
