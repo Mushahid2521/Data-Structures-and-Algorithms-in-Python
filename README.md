@@ -40,6 +40,8 @@ All the following Sorting algorithms have been implemented.
 2. **Minimum Spanning Tree(Kruskal Algorithm)**: [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/graph/mst_kruskal.py)
 3. **Topological Sort**: [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/LeetCode%20Interview%20Questions/Course_Schedule_topSort.py)
 4. **DFS**: [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/graph/dfs.py), ```Solved Problems```: [Cycle Detection](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/graph/detect_cycle_dfs.py)
+5. **Dijakstra**: [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/graph/Dijakstra.py)
+6. **Articulation Point**: [Code]()
 
 
 
