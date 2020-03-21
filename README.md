@@ -42,6 +42,6 @@ All the following Sorting algorithms have been implemented.
 4. **DFS**: [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/graph/dfs.py), ```Solved Problems```: [Cycle Detection](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/graph/detect_cycle_dfs.py)
 5. **Dijakstra**: [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/graph/Dijakstra.py)
 6. **Articulation Point**: [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/graph/articulation_points_code.py), ```Solved Problems```:[Network](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/graph/articulation_point_network_315.py), [Submerged](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/graph/articulation_point_spog.py)
-
+7. **Strongly Conncted Components** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/graph/strongly_connected_components(SCC).py)
 
 
