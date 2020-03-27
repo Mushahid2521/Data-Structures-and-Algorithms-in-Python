@@ -43,5 +43,5 @@ All the following Sorting algorithms have been implemented.
 5. **Dijakstra**: [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/graph/Dijakstra.py)
 6. **Articulation Point**: [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/graph/articulation_points_code.py), ```Solved Problems```:[Network](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/graph/articulation_point_network_315.py), [Submerged](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/graph/articulation_point_spog.py)
 7. **Strongly Conncted Components** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/graph/strongly_connected_components(SCC).py)
-
+8. **Maximum Flow(Ford Fulkerson)** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/graph/Maximul_flow_Ford_Fulkerson.py), 
 
