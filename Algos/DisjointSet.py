@@ -1,8 +1,9 @@
 def find(x):
     if arr[x]==x:
         return x
+    arr[x] = find(arr[x])
 
-    return find(arr[x])
+    return arr[x]
 
 
 def union(t,x,y):

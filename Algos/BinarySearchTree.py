@@ -14,7 +14,7 @@ class BST():
 
     def insert(self, root, node):
         if root == None:
-            root = node
+            self.root = node
 
         else:
             if root.key < node.key:
@@ -39,6 +39,9 @@ class BST():
             self.inorder(root.left)
             print(root.key)
             self.inorder(root.right)
+
+
+
 
 
 
