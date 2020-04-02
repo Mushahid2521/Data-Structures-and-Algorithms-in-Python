@@ -3,25 +3,27 @@ In this repository different types of Data Structures and Algorithms have been i
 
 ## Data Structures
 
-**Linked List:** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/linkedList.py)
+**Linked List:** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/DataStructure/linkedList.py)
 
-**Queue using Linked List:** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/QueInLinkedlist.py)
+**Queue using Linked List:** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/DataStructure/QueInLinkedlist.py)
 
-**Stack:** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/stack.py), ```Solved Problems:``` [Paranthesis Balancing](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/parenthesisBalancing.py)
+**Stack:** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/DataStructure/stack.py), ```Solved Problems:``` [Paranthesis Balancing](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/parenthesisBalancing.py)
 
-**Disjoint Set:** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/DisjointSet.py)
+**Disjoint Set:** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/DataStructure/DisjointSet.py)
 
-**Heap and Priority Que:** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/heap%26PrirotyQueue.py)
+**Heap and Priority Que:** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/DataStructure/heap%26PrirotyQueue.py)
 
-**Binary Search Tree using Linked List:** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/BinarySearchTree.py)
+**Binary Search Tree using Linked List:** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/DataStructure/BinarySearchTree.py)
 
-**Segment Tree:** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/SegmentTree.py), ```Solved Promlems:``` [Minimum value](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Problems/Segment_tree_minimumQuery.py)
+**Segment Tree:** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/DataStructure/SegmentTree.py), ```Solved Promlems:``` [Minimum value](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Problems/Segment_tree_minimumQuery.py)
+
+**Trie** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/DataStructure/trie_DataStructure.py)
 ## Algorithms
 
 **Searching**
-1. Binary Search: [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/bianrySearch.py) 
+1. Binary Search: [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/DataStructure/bianrySearch.py) 
 
-**Sorting:** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Algos/SrotingAlgorithms.py)
+**Sorting:** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/DataStructure/SrotingAlgorithms.py)
 
 All the following Sorting algorithms have been implemented.
 1. Insertion Sort
