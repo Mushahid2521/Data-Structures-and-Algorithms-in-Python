@@ -45,3 +45,14 @@ All the following Sorting algorithms have been implemented.
 7. **Strongly Conncted Components** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/graph/strongly_connected_components(SCC).py)
 8. **Maximum Flow(Ford Fulkerson)** [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/graph/Maximul_flow_Ford_Fulkerson.py), 
 
+### Dynamic Programming
+
+1. 1/0 Knapsack Problem [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Dynamic%20Programming/Knapsack_p10130.py)
+2. Coin Change [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Dynamic%20Programming/coin_change.py)
+3. Longest Increasing Sequence [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Dynamic%20Programming/longest_increasing_sequence_LIS.py)
+4. Minimum Vertex Cover [Code](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Dynamic%20Programming/minimum_vertex_cover.py)
+5. Longest Common Subsequence 
+
+
+
+
