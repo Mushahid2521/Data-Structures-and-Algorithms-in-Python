@@ -35,4 +35,4 @@ def LIS(array):
     print_path(start)
 
 
-LIS([5,0,9,2,7,3,4])
+LIS([5,0,9,2,7,3,7,8,9])

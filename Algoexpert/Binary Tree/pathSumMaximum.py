@@ -1,21 +1,18 @@
 def maxPathSum(tree):
+    _ , ans = findMaxSum(tree)
+    return ans
 
-    def dp(tree):
-        if tree is None:
-            return 0
+def findMaxSum(tree):
+    if tree is None:
+        return (0,0)
 
-        sum = max(dp(tree.left)+dp(tree.right)+tree.value, tree.value+dp(tree.left), tree.value+dp(tree.right))
-        return sum
+    leftMaxSumBrunch, leftMaxSumPath = findMaxSum(tree.left)
+    rightMaxSumBrunch, rightMaxSumPath = findMaxSum(tree.right)
+    maxChildSumBrunch = max(leftMaxSumBrunch, rightMaxSumBrunch)
 
-{
-  "nodes": [
-    {"id": "1", "left": "2", "right": "3", "value": 1},
-    {"id": "2", "left": "4", "right": "5", "value": 2},
-    {"id": "3", "left": "6", "right": "7", "value": 3},
-    {"id": "4", "left": None, "right": None, "value": 4},
-    {"id": "5", "left": None, "right": None, "value": 5},
-    {"id": "6", "left": None, "right": None, "value": 6},
-    {"id": "7", "left": None, "right": None, "value": 7}
-  ],
-  "root": "1"
-}
+    value = tree.value
+    maxSumAsBrunch = max(value, maxChildSumBrunch+value)
+    maxSumAsRootNode = max(leftMaxSumBrunch+value+rightMaxSumBrunch, maxSumAsBrunch)
+    maxPathSum = max(leftMaxSumPath, rightMaxSumPath, maxSumAsRootNode)
+
+    return (maxSumAsBrunch, maxPathSum)
