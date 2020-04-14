@@ -32,13 +32,29 @@ class BST():
 
 
     def inorderIt(self):
-        self.inorder(self.root)
 
-    def inorder(self, root):
-        if root:
-            self.inorder(root.left)
-            print(root.key)
-            self.inorder(root.right)
+        def inorder(root):
+            if root:
+                inorder(root.left)
+                print(root.key)
+                inorder(root.right)
+
+        inorder(self.root)
+
+    def levelOrder(self):
+        self.level_dict = dict()
+        def travel(root, level):
+            if root:
+                temp = self.level_dict.get(level, [])
+                temp.append(root.key)
+                self.level_dict[level] = temp
+                travel(root.left, level+1)
+                travel(root.right, level+1)
+
+        travel(self.root, 1)
+
+        return [nodes for nodes in self.level_dict.values()]
+
 
 
 
@@ -55,5 +71,7 @@ if __name__=="__main__":
     bst.insert_it(Node(60))
     bst.insert_it(Node(80))
 
-    bst.inorderIt()
+    #bst.inorderIt()
+
+    print(bst.levelOrder())
 
