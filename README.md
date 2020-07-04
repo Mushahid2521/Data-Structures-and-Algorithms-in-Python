@@ -49,6 +49,10 @@ All the following Sorting algorithms have been implemented.
 4. Minimum Vertex Cover [(Code)](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Dynamic%20Programming/minimum_vertex_cover.py)
 5. Longest Common Subsequence 
 
+### CommonInterview Problems
+In this section some of the common interview questions are added with the Online Judge links.
+[(Link)](https://github.com/Mushahid2521/Data-Structures-and-Algorithms-in-Python/blob/master/Interview%20Questions/)
+
 
 
 
